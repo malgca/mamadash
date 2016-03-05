@@ -1,4 +1,4 @@
-package main.productteam.mamadash;
+package test.dash.ui;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

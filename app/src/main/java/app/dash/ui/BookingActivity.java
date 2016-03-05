@@ -1,4 +1,4 @@
-package main.productteam.mamadash;
+package app.dash.ui;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
